@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Performance Prediction API
 
 Machine learning based REST API for predicting student academic performance using FastAPI and Scikit-learn.
@@ -186,7 +185,3 @@ uvicorn app:app --reload
 - Hyperparameter tuning
 
 - Authentication and API security
-=======
-# student-performance-prediction-api
-Machine learning based REST API for student performance prediction
->>>>>>> e307148c54123f7b2f8fd0d514b5d1193741049c
